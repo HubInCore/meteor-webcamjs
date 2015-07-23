@@ -1,3 +1,5 @@
+\*** Borrowed from https://github.com/benjick/meteor-webcam/ ***
+
 WebcamJS for Meteor
 
 https://github.com/jhuckaby/webcamjs
